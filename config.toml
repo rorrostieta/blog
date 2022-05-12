@@ -1,6 +1,6 @@
 baseurl = "https://rorrostieta.github.io/blog/" # Make sure to end baseurl with a '/'
-title = "Your site title"
-author = "Your name"
+title = "MyBlog"
+author = "Ruben Orrostieta"
 theme = "blackburn"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
@@ -13,7 +13,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
+  subtitle = "Ruben Orrostieta"
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
