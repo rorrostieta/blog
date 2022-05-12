@@ -61,10 +61,10 @@ paginate = 10
   # by entering your username or ID.
 
   # SNS microblogging
-  twitter = "*"
+  twitter = "rorrostieta_"
 
   # SNS career oriented
-  linkedin = "*"
+  linkedin = "rorrostieta"
 
   # Techie
-  github = "yoshiharuyamashita"
+  github = "rorrostieta"
