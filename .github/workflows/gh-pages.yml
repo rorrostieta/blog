@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -33,7 +33,7 @@ jobs:
           git add .
           git commit -m "GitHub Actions: Build ok"
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
