@@ -29,7 +29,7 @@ jobs:
           echo ":: Renombrando nueva version ::"
           mv public/ docs/
           git config --global user.email "ruben.orrostieta@gmail.com"
-          git config --global user.name "Ruben"
+          git config --global user.name "rorrostieta"
           git add .
           git commit -m "GitHub Actions: Build ok"
       - name: Push changes
