@@ -2,7 +2,7 @@
 title = "About Me"
 date = "2022-05-21"
 sidemenu = "true"
-description = "About Me and this blog"
+description = "Why this blog?"
 +++
 
 Hi! I'm Ruben Orrostieta, I'm a 29 year old looking to transition my career into something I really love.
