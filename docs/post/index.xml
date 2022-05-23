@@ -6,14 +6,15 @@
     <description>Recent content in Posts on MyBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rorrostieta.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rorrostieta.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to my blog</title>
+      <title>Welcome to MyBlog</title>
       <link>https://rorrostieta.github.io/blog/post/welcome/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rorrostieta.github.io/blog/post/welcome/</guid>
-      <description>Hello</description>
+      <description>Hello, thank you for taking some time to visit my blog. Here you can follow my experience transitioning into the technology industry, whether it is participating in bootcamps, idea brainstorm, project ideation among many others.
+I want to invite you to read my AboutMe to learn more about who am I and why I am starting this blog.</description>
     </item>
     
   </channel>
