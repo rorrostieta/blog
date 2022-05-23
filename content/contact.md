@@ -1,8 +1,8 @@
-+++
-title = "How to contact me"
-date = "2022-05-21"
-sidemenu = "true"
-+++
+---
+title: "How to contact me"
+date: 2022-05-21
+sidemenu: true
+---
 
 <form class="pure-form pure-form-stacked">
   <fieldset>
