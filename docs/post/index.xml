@@ -6,7 +6,17 @@
     <description>Recent content in Posts on MyBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rorrostieta.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rorrostieta.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaunchX Experience</title>
+      <link>https://rorrostieta.github.io/blog/post/launchx/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rorrostieta.github.io/blog/post/launchx/</guid>
+      <description>I never imagined a TikTok post would bring me this far. Here is part of my experience participating in the Launch X full stack development bootcamp offered by @inovaccionvirtual on the first half of 2022.
+How It Started At the beginning of the year I was looking into TikTok and found an interesting post regarding a course for full stack development tools. This kind of activity caught my eye since I was looking into expanding my portfolio of tools in order to increase my chance of switching careers.</description>
+    </item>
+    
     <item>
       <title>Welcome to MyBlog</title>
       <link>https://rorrostieta.github.io/blog/post/welcome/</link>
