@@ -1,7 +1,7 @@
 ---
 title: "Welcome to MyBlog"
 date: 2022-05-21
-draft: true
+draft: false
 ---
 
 Hello, thank you for taking some time to visit my blog. Here you can follow my experience transitioning into the technology industry, whether it is participating in bootcamps, idea brainstorm, project ideation among many others.
